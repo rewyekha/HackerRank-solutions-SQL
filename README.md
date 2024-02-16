@@ -1,4 +1,7 @@
 [![HackerRank logo](https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png)](https://www.hackerrank.com/lalwanijayesh)
+
+# Welcome to HackerRank Challenges
+
 # Solutions to HackerRank challenges
 This repository is a collection of updated solutions to programming challenges on [HackerRank](https://www.hackerrank.com).
 
@@ -95,5 +98,14 @@ Challenge | Score | Solution
 [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | 40 | [Solution](https://github.com/lalwanijayesh/hackerrank-solutions/blob/master/SQL/Alternative%20Queries/Print%20Prime%20Numbers.sql)
 
 
+**-----------------------------------------------------------------------------------------------------**
+
+## My profile
+
+Feel free to connect with me on LinkedIn: [Reyas Khan](https://www.linkedin.com/in/reyas-khan-16640825b/)
+
+If you have any questions, doubts, or would like to discuss anything related to this Challenge, don't hesitate to reach out! I'm always happy to help.
 
 
+
+# HackerRank-solutions-SQL
