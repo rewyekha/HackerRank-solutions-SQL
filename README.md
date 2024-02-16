@@ -1,7 +1,5 @@
 [![HackerRank logo](https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png)](https://www.hackerrank.com/lalwanijayesh)
 
-# Welcome to HackerRank Challenges
-
 # Solutions to HackerRank challenges
 This repository is a collection of updated solutions to programming challenges on [HackerRank](https://www.hackerrank.com).
 
