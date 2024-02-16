@@ -1,3 +1,4 @@
+-- Placements problem
 SELECT name
 FROM
     students s

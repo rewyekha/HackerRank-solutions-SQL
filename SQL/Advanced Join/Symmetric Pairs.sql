@@ -1,3 +1,4 @@
+# Symmetric pairs problem
 # Solution 1
 SELECT f1.x, f1.y FROM functions f1
 WHERE x <> y AND EXISTS (SELECT * FROM functions

@@ -1,3 +1,4 @@
+# new companies problem
 SELECT
     c.company_code,
     c.founder,

@@ -1,3 +1,4 @@
+#occupation problem
 SET @r1 = 0, @r2 = 0, @r3 = 0, @r4 = 0;
 SELECT MAX(doctor), MAX(professor), MAX(singer), MAX(actor)
 FROM (

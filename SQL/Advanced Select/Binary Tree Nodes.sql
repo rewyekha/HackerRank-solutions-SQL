@@ -1,3 +1,4 @@
+#Binary tree nodes problem
 SELECT n,
     CASE WHEN p IS NULL THEN 'Root'
         WHEN EXISTS (SELECT n FROM bst WHERE p = b.n) THEN 'Inner'

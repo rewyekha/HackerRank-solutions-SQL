@@ -1,3 +1,4 @@
+# SQL project planning problem
 # Solution 1
 SET @project = 0;
 SET @last_date = NULL;

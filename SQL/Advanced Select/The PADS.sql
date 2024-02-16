@@ -1,3 +1,4 @@
+#the pads problem
 SELECT CONCAT(name, '(', LEFT(occupation, 1), ')')
 FROM occupations
 ORDER BY name;

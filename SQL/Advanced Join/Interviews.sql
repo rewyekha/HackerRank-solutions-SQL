@@ -1,3 +1,4 @@
+-- Interviews problem
 SELECT
     contest_id, hacker_id, name,
     IFNULL(SUM(total_submissions), 0) t_submissions,
